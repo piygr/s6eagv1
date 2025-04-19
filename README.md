@@ -52,5 +52,12 @@ s6eagv1/
 └── README.md
 ```
 
+## Execution
+
+Simply run 
+```
+python main.py
+```
+(You can update User query in agent.py to experiment)
 
 
