@@ -1,7 +1,7 @@
 # 🧠 s6eagv1 – Agentic AI Architecture with MCP + Pydantic Cognitive Layers
 
-`s6eagv1` is an experimental Agentic AI system built using a cognitive-layered architecture. It leverages [MCP (Modular Command Platform)](https://github.com/sixhats/mcp), `pydantic` models, and a tool-augmented LLM interface to enable dynamic task planning and reasoning.
-
+`s6eagv1` is an experimental Agentic AI system built using a cognitive-layered architecture. It leverages MCP, `pydantic` models, and a tool-augmented LLM interface to enable dynamic task planning and reasoning.
+[Demo](https://www.youtube.com/watch?v=tvMTwsWqekE)
 ---
 
 ## ✨ Features
